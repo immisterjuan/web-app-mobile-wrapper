@@ -1,0 +1,13 @@
+{
+  "appId": "com.qrbrowser.app",
+  "appName": "QR Browser",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
