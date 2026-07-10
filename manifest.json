@@ -3,7 +3,7 @@
   "short_name": "QR Browser",
   "description": "Scan a QR code and browse the link natively",
   "id": "/web-app-mobile-wrapper/",
-  "start_url": "/web-app-mobile-wrapper/",
+  "start_url": "/web-app-mobile-wrapper/index.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#000000",
