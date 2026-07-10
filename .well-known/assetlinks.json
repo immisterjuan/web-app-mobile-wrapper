@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.immisterjuan.twa",
+        "sha256_cert_fingerprints": ["88:33:B4:D4:8B:49:3B:22:FF:4A:6D:65:F0:2A:0D:DA:C1:E0:E2:03:A0:3D:C0:76:D2:57:3B:6F:F4:99:01:69"]
+      }
+    }]
